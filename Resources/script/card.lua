@@ -1,4 +1,7 @@
 
+
+
+
 function card(num)
    -- body
    local cardSprite = CCSprite:create()
